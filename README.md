@@ -1,2 +1,2 @@
-# hacker-rank-solutions
-In this repository you will find the solutions of the HackerRank problems related to the 3 month preparation. These solutions are written in Python.
+# HackerRank solutions in Python
+Within this repository, you will discover Python solutions to HackerRank problems associated with the three-month preparation program.
